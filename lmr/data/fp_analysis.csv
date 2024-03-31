@@ -1,0 +1,2337 @@
+Label,Correct Count,False Positive Count,Total Count,False Positive Percentage
+connecticut,1,1,2,50.0
+florence,100,798,898,88.8641425389755
+winnabow,1,0,1,0.0
+north carolina,83,2,85,2.3529411764705883
+wilmington,34,5,39,12.82051282051282
+seven springs,1,0,1,0.0
+florida,433,50,483,10.351966873706004
+texas,220,30,250,12.0
+puerto rico,408,18,426,4.225352112676056
+kentucky,2,2,4,50.0
+nc,84,3477,3561,97.64111204717776
+sc,33,2046,2079,98.4126984126984
+va,15,2412,2427,99.38195302843016
+virginia,61,8,69,11.594202898550725
+ocala,1,1,2,50.0
+carolinas,60,33,93,35.483870967741936
+hurricane florence,7,329,336,97.91666666666666
+massachusetts,2,0,2,0.0
+south carolina,66,3,69,4.3478260869565215
+hampton roads,3,4,7,57.14285714285714
+california,744,81,825,9.818181818181818
+wrightsville beach museum,1,0,1,0.0
+jenkintown,1,0,1,0.0
+la,11,5807,5818,99.81093159161225
+pacoima,1,0,1,0.0
+raleigh,5,8,13,61.53846153846154
+sampson county,2,1,3,33.33333333333333
+richmond,3,0,3,0.0
+northcarolina,26,2,28,7.142857142857142
+lumberton,6,1,7,14.285714285714285
+pembroke,1,0,1,0.0
+fayetteville,9,1,10,10.0
+orlando,24,6,30,20.0
+pender county,1,0,1,0.0
+virginias,2,0,2,0.0
+holshouser building,1,0,1,0.0
+n.c.,13,1,14,7.142857142857142
+asheville,2,1,3,33.33333333333333
+leland,5,3,8,37.5
+carteret,1,3,4,75.0
+craven county,1,1,2,50.0
+american,7,167,174,95.97701149425288
+winston-salem,1,0,1,0.0
+southcarolina,22,1,23,4.3478260869565215
+virginiabeach,1,0,1,0.0
+georgia,50,6,56,10.714285714285714
+maryland,312,12,324,3.7037037037037033
+edisto beach,4,0,4,0.0
+albemarle,1,0,1,0.0
+pamlico,1,0,1,0.0
+pamlico rivers,1,0,1,0.0
+usa,52,337,389,86.63239074550128
+nashville,7,1,8,12.5
+u.s.,73,28,101,27.722772277227726
+tennessee,10,1,11,9.090909090909092
+atlantic,3,40,43,93.02325581395348
+east mecklenburg hs,1,1,2,50.0
+mecklenburg,3,1,4,25.0
+north mecklenburg,1,0,1,0.0
+arkansas,4,2,6,33.33333333333333
+1025 blue ridge boulevard,1,0,1,0.0
+virgin islands,7,21,28,75.0
+the carolinas,3,56,59,94.91525423728814
+beaufort,7,1,8,12.5
+jasper,2,1,3,33.33333333333333
+colleton,1,2,3,66.66666666666666
+edisto island,1,0,1,0.0
+conway,2,0,2,0.0
+kansas city,1,0,1,0.0
+rivermist,1,0,1,0.0
+new hanover co,1,1,2,50.0
+north myrtle beach,1,0,1,0.0
+s.c.,3,3,6,50.0
+fl,60,4605,4665,98.71382636655949
+us,95,3824,3919,97.57591222250575
+chesterfield county,1,0,1,0.0
+eastcoast,2,2,4,50.0
+newyork,1,6,7,85.71428571428571
+carolina,14,265,279,94.98207885304659
+charlotte,10,5,15,33.33333333333333
+n tryon st north,1,0,1,0.0
+michigan,6,0,6,0.0
+pa,2,3162,3164,99.93678887484198
+atlanta,30,8,38,21.052631578947366
+onslow county,4,0,4,0.0
+houston,156,57,213,26.76056338028169
+ὂ5#northcarolina,1,0,1,0.0
+lumbee river,1,0,1,0.0
+alabama,10,1,11,9.090909090909092
+pennsylvania,6,2,8,25.0
+west virginia,7,3,10,30.0
+fayette,1,13,14,92.85714285714286
+gaithersburg,1,0,1,0.0
+carolina coast,2,14,16,87.5
+mishawaka,1,0,1,0.0
+johnston,1,4,5,80.0
+mexico city,178,51,229,22.270742358078603
+boston,4,6,10,60.0
+yanceyville,1,0,1,0.0
+halifax,1,2,3,66.66666666666666
+sandhills,1,0,1,0.0
+st. louis,2,2,4,50.0
+elm city,2,0,2,0.0
+new york,20,10,30,33.33333333333333
+@cityofnewbern,1,0,1,0.0
+churchville,2,0,2,0.0
+augusta co,1,0,1,0.0
+augusta county,1,0,1,0.0
+new hanover,1,1,2,50.0
+wake county,1,1,2,50.0
+jacksonville,35,0,35,0.0
+lima,1,100,101,99.00990099009901
+chicago,11,8,19,42.10526315789473
+south carolinaan,1,0,1,0.0
+north york,2,0,2,0.0
+w wynn road,1,0,1,0.0
+stafford park,1,0,1,0.0
+north carolinians,4,0,4,0.0
+united states,16,2,18,11.11111111111111
+down east,1,0,1,0.0
+hoggard high school,1,0,1,0.0
+nevada,3,19,22,86.36363636363636
+bailey coach,1,0,1,0.0
+"55 south fayette st, york, pa 17404",1,0,1,0.0
+u.s,5,102,107,95.32710280373831
+university,1,14,15,93.33333333333333
+new cumberland,1,0,1,0.0
+louisiana,16,1,17,5.88235294117647
+rocky mount,1,1,2,50.0
+battleboro,1,0,1,0.0
+appalachians,1,2,3,66.66666666666666
+blue ridge monday,1,0,1,0.0
+horry county,3,0,3,0.0
+america,20,213,233,91.41630901287554
+oklahoma,6,0,6,0.0
+beverly,1,0,1,0.0
+ma,2,8282,8284,99.97585707387735
+1 wsw cedar point,1,0,1,0.0
+carteret co,1,2,3,66.66666666666666
+300 cedar point blvd,1,0,1,0.0
+african,3,18,21,85.71428571428571
+lokoja,1,0,1,0.0
+nigeria,4,3,7,42.857142857142854
+montgomery co,1,1,2,50.0
+md-650 new hampshire avenue,1,0,1,0.0
+us-29 colesville road,1,0,1,0.0
+charleston county,2,0,2,0.0
+dorchester county,1,0,1,0.0
+columbia,5,7,12,58.333333333333336
+tyrrellcounty,1,0,1,0.0
+jonescounty,2,0,2,0.0
+hydecounty,1,0,1,0.0
+whoa. craven,1,0,1,0.0
+new bern,8,4,12,33.33333333333333
+dallas,11,4,15,26.666666666666668
+wv,2,15,17,88.23529411764706
+mecklenburg co,1,2,3,66.66666666666666
+las vegas,3,0,3,0.0
+chatham county,1,0,1,0.0
+durham,3,6,9,66.66666666666666
+florencenc,2,12,14,85.71428571428571
+holden beach,1,0,1,0.0
+swansboro,2,0,2,0.0
+dear carolinas,1,0,1,0.0
+tx,44,54,98,55.10204081632652
+carteret county,1,0,1,0.0
+sampson,1,7,8,87.5
+niger,2,6,8,75.0
+chenango,1,1,2,50.0
+ny,5,1145,1150,99.56521739130434
+watauga co,1,0,1,0.0
+watauga,1,0,1,0.0
+the intersection of deerfield road and bamboo road,1,0,1,0.0
+boone,1,2,3,66.66666666666666
+trenton,2,0,2,0.0
+beulaville,1,0,1,0.0
+atlantic ocean,2,1,3,33.33333333333333
+harkers island,1,0,1,0.0
+delta,1,5,6,83.33333333333334
+3165 olentangy river rd,1,0,1,0.0
+loudoun,3,0,3,0.0
+san juans,2,0,2,0.0
+monroe,2,7,9,77.77777777777779
+fayettevillenc,1,1,2,50.0
+cumberland,2,3,5,60.0
+greenville,2,4,6,66.66666666666666
+marion county,1,0,1,0.0
+nj,5,578,583,99.14236706689536
+cheraw,1,1,2,50.0
+great pee dee river,1,0,1,0.0
+ncs,1,3,4,75.0
+now florence,1,0,1,0.0
+smithville center,1,0,1,0.0
+chenango co,1,1,2,50.0
+orange co,1,5,6,83.33333333333334
+camelot village near bolin creek,1,0,1,0.0
+utah,3,3,6,50.0
+lexington,1,0,1,0.0
+northland,2,4,6,66.66666666666666
+jamaica ave,1,0,1,0.0
+pennsylvania ave,1,0,1,0.0
+"city hall, 300 pollock st",1,0,1,0.0
+north carolinas,1,0,1,0.0
+hampton,2,6,8,75.0
+trask middle school,1,1,2,50.0
+codington elementary,1,0,1,0.0
+delaware,5,0,5,0.0
+west virginia.,1,1,2,50.0
+philippines,2,0,2,0.0
+d.c.,2,2,4,50.0
+charleston,15,2,17,11.76470588235294
+atlantic beach,2,0,2,0.0
+orangeburg,2,0,2,0.0
+cajun navy,1,6,7,85.71428571428571
+lowcountry,1,1,2,50.0
+seoul,1,0,1,0.0
+saluda,1,0,1,0.0
+creek road,1,1,2,50.0
+etlan,2,1,3,33.33333333333333
+wrightsville beach,2,1,3,33.33333333333333
+appalachian,1,5,6,83.33333333333334
+east coast,9,98,107,91.58878504672897
+florences,1,15,16,93.75
+cumberland county,1,1,2,50.0
+sutton power plants,1,0,1,0.0
+sutton lake,1,0,1,0.0
+beltway,1,2,3,66.66666666666666
+fairhope church,1,0,1,0.0
+burgaw,1,1,2,50.0
+tampa,6,11,17,64.70588235294117
+miami,66,33,99,33.33333333333333
+belmont,2,0,2,0.0
+dc,3,397,400,99.25
+mount olive,1,0,1,0.0
+"washington, d.c.",1,0,1,0.0
+appalachian mountains,1,1,2,50.0
+merchants organization scholarship,1,0,1,0.0
+mckamey animal center,1,1,2,50.0
+eu,15,269,284,94.71830985915493
+east tennessee,1,1,2,50.0
+daytona beach,3,1,4,25.0
+high point,1,1,2,50.0
+indiana,4,3,7,42.857142857142854
+nebraska,836,34,870,3.9080459770114944
+northwestern,1,10,11,90.9090909090909
+roanoke,2,0,2,0.0
+danville,1,0,1,0.0
+toronto,8,9,17,52.94117647058824
+richmond street,1,0,1,0.0
+sheppard street,1,0,1,0.0
+mississippi,5,1,6,16.666666666666664
+1 nnw rockfish,1,0,1,0.0
+rockfish road,1,0,1,0.0
+overlake road,1,0,1,0.0
+pecan trace,1,0,1,0.0
+myers squibb,1,0,1,0.0
+rocky point,1,0,1,0.0
+empress avenue b/w lane east yonge south kingsdale,1,0,1,0.0
+cumberland co.,1,0,1,0.0
+capital district,1,0,1,0.0
+christ church episcopal,1,0,1,0.0
+trask middle school 2900 north college rd,1,0,1,0.0
+east mecklenburg,1,1,2,50.0
+morehead city,2,0,2,0.0
+ireland,4,4,8,50.0
+brunswick county,1,0,1,0.0
+nc-,1,5,6,83.33333333333334
+ocracoke,2,2,4,50.0
+gwinnett county,1,0,1,0.0
+maysville,1,0,1,0.0
+dover,1,6,7,85.71428571428571
+pollocksville,1,0,1,0.0
+hong kong,4,0,4,0.0
+paris,3,11,14,78.57142857142857
+puertorico,171,51,222,22.972972972972975
+hartsville,2,0,2,0.0
+darlington,2,0,2,0.0
+ga,16,1163,1179,98.64291772688719
+knoxville,1,1,2,50.0
+virginia beach,1,2,3,66.66666666666666
+-wilmington,1,0,1,0.0
+hatteras island,1,0,1,0.0
+dare county,2,0,2,0.0
+4000 block of stevens chapel rd,1,0,1,0.0
+volusia county,6,2,8,25.0
+newbern,1,6,7,85.71428571428571
+annapolis,1,0,1,0.0
+cape fear river,1,2,3,66.66666666666666
+knightdale high school,1,0,1,0.0
+fort bragg,1,0,1,0.0
+washington d.c.,1,0,1,0.0
+lumber river,1,0,1,0.0
+newport,1,0,1,0.0
+goldsboro,1,0,1,0.0
+bristol,1,1,2,50.0
+crewe va,1,0,1,0.0
+burkeville,1,0,1,0.0
+nottoway court house va,1,0,1,0.0
+in,1,13155,13156,99.99239890544239
+newman lake,1,0,1,0.0
+sligo crk pkwy both nb/sb between piney branch rd and maple ave,1,0,1,0.0
+exit 181b latta/marion,1,0,1,0.0
+kaikoura,114,3,117,2.564102564102564
+buckley road,1,0,1,0.0
+wellington,108,9,117,7.6923076923076925
+new zealand,219,16,235,6.808510638297872
+japan,33,17,50,34.0
+clutha district,1,0,1,0.0
+nz,58,715,773,92.496765847348
+willis st new world,1,0,1,0.0
+christchurch,26,10,36,27.77777777777778
+south island,14,29,43,67.44186046511628
+newzealand,58,4,62,6.451612903225806
+picton,7,3,10,30.0
+chatham islands,6,1,7,14.285714285714285
+chch,1,14,15,93.33333333333333
+wlgn,1,0,1,0.0
+blenheim,11,1,12,8.333333333333332
+kairoura,1,0,1,0.0
+tennyson street,1,0,1,0.0
+southisland,1,1,2,50.0
+wellingtons,4,0,4,0.0
+kekerengu,1,0,1,0.0
+highway 1,1,5,6,83.33333333333334
+nelson,2,17,19,89.47368421052632
+canterbury,11,4,15,26.666666666666668
+linwood college,1,0,1,0.0
+brooklyn,1,0,1,0.0
+culverden.#eqnz,1,0,1,0.0
+taranaki,1,1,2,50.0
+east cape,8,2,10,20.0
+napier,2,0,2,0.0
+eastern coast of the north,1,1,2,50.0
+port marlborough,1,0,1,0.0
+shakespeare bay,1,0,1,0.0
+new brighton,1,0,1,0.0
+parnassus,1,0,1,0.0
+kai,1,163,164,99.39024390243902
+seddon,7,1,8,12.5
+marlborough,8,4,12,33.33333333333333
+auckland,9,0,9,0.0
+bank peninsula,1,0,1,0.0
+61 molesworth st,1,1,2,50.0
+taranaki st,1,0,1,0.0
+manners st.,1,0,1,0.0
+courtenay place,1,0,1,0.0
+clarence river,7,1,8,12.5
+new zealands,15,0,15,0.0
+opotiki,2,0,2,0.0
+centreport,1,0,1,0.0
+canadian,36,83,119,69.74789915966386
+culverden,4,1,5,20.0
+vancouver,2,2,4,50.0
+canada,76,68,144,47.22222222222222
+cheviot,6,1,7,14.285714285714285
+north island,10,4,14,28.57142857142857
+hurunui,4,0,4,0.0
+banks peninsula,4,1,5,20.0
+hamner springs,1,1,2,50.0
+north canterbury,3,3,6,50.0
+lyall bay,3,1,4,25.0
+nzs south island,1,1,2,50.0
+pukekohe,1,0,1,0.0
+mt lyford,3,1,4,25.0
+methven,1,0,1,0.0
+leader road,1,0,1,0.0
+aramoana,1,0,1,0.0
+otago,2,0,2,0.0
+malaysia,2,0,2,0.0
+clarence,1,8,9,88.88888888888889
+aitken street,1,0,1,0.0
+thorndon,1,0,1,0.0
+lower north island,1,0,1,0.0
+ngauranga,1,0,1,0.0
+fitzherbert bridge,1,0,1,0.0
+waiau,4,1,5,20.0
+kia kaha,1,0,1,0.0
+nzs,4,18,22,81.81818181818183
+lyford,1,3,4,75.0
+kaikōura,1,0,1,0.0
+italy,122,348,470,74.04255319148936
+ohau point,1,1,2,50.0
+phoenix,5,4,9,44.44444444444444
+melbourne,3,3,6,50.0
+hornby,1,0,1,0.0
+lower hutt,7,3,10,30.0
+thomsons ford road bridge,1,0,1,0.0
+mount vic,1,0,1,0.0
+sumner christchurch,1,0,1,0.0
+wakefield st,1,1,2,50.0
+central wellington,1,1,2,50.0
+leithfield beach,1,0,1,0.0
+hanmer springs,3,2,5,40.0
+kaikora,2,0,2,0.0
+oahu,2,0,2,0.0
+waikanae,1,0,1,0.0
+woodend community centre,1,0,1,0.0
+kaikorua,1,0,1,0.0
+akita,1,0,1,0.0
+herbertville,1,0,1,0.0
+south island road & rail,1,0,1,0.0
+parliament,1,7,8,87.5
+gales,1,0,1,0.0
+island bay,1,0,1,0.0
+wgtn,1,15,16,93.75
+featherston st,1,0,1,0.0
+wainuiomata,1,0,1,0.0
+ward,1,286,287,99.65156794425087
+ca,27,8719,8746,99.69128744568945
+or,2,11787,11789,99.98303503265757
+wa,1,3704,3705,99.97300944669367
+ak,3,4897,4900,99.93877551020408
+14 wilmers road,1,0,1,0.0
+heathcote valley,1,0,1,0.0
+grafton,1,0,1,0.0
+malvina,1,0,1,0.0
+waikawa,1,0,1,0.0
+havelock,2,0,2,0.0
+hawaii,8,0,8,0.0
+takahanga marae,1,0,1,0.0
+dunedin,6,0,6,0.0
+raglan,3,2,5,40.0
+kaikouras,1,0,1,0.0
+wakefield street,1,0,1,0.0
+australia,16,16,32,50.0
+araroa,1,1,2,50.0
+italian,13,41,54,75.92592592592592
+petone,2,2,4,50.0
+ferrymead,1,0,1,0.0
+little pigeon bay,1,0,1,0.0
+hataitai,1,0,1,0.0
+the south islands east coast,1,0,1,0.0
+fukushima,3,1,4,25.0
+both islands,1,0,1,0.0
+st john,1,3,4,75.0
+oaro,1,0,1,0.0
+waipara,1,0,1,0.0
+evans bay,1,0,1,0.0
+sth island,1,0,1,0.0
+gisborne,1,0,1,0.0
+redcliffs christchurch,1,0,1,0.0
+huka falls,1,0,1,0.0
+rotherham,1,1,2,50.0
+61 molesworth street,1,0,1,0.0
+west coast marina,1,0,1,0.0
+timaru harbour,1,0,1,0.0
+punawea,1,0,1,0.0
+tairei mouth,1,0,1,0.0
+clutha,1,1,2,50.0
+eqnz,1,582,583,99.82847341337907
+pic,1,338,339,99.70501474926253
+oxfords,1,0,1,0.0
+isolated south island,1,0,1,0.0
+tua marina,1,0,1,0.0
+pictons high street,1,0,1,0.0
+eastbourne,1,0,1,0.0
+new z,1,229,230,99.56521739130434
+chathams,1,0,1,0.0
+oriental beach,1,0,1,0.0
+new zealanders,1,0,1,0.0
+molesworth street,1,1,2,50.0
+hutt valley,1,0,1,0.0
+newzealands,1,0,1,0.0
+northisland,1,0,1,0.0
+statistics nzs wlgtn,1,0,1,0.0
+welly,1,1,2,50.0
+katikati,1,0,1,0.0
+queenspark,1,0,1,0.0
+ni,1,4619,4620,99.97835497835497
+hutt,1,25,26,96.15384615384616
+kapiti,1,2,3,66.66666666666666
+state highway 1,1,4,5,80.0
+chile,5,1,6,16.666666666666664
+kerala,687,441,1128,39.09574468085106
+karnataka,12,2,14,14.285714285714285
+india,75,174,249,69.87951807228916
+jind,2,2,4,50.0
+haryana,2,0,2,0.0
+pune,5,1,6,16.666666666666664
+mumbai,11,5,16,31.25
+kochi/,1,0,1,0.0
+aluva,10,3,13,23.076923076923077
+kadavanthra,3,0,3,0.0
+maharshtra,1,0,1,0.0
+pinarayi,1,22,23,95.65217391304348
+uc college,1,0,1,0.0
+dadra nagar haveli,1,0,1,0.0
+united arab emirates,1,0,1,0.0
+delhi,11,6,17,35.294117647058826
+britain,1,3,4,75.0
+gujarat,7,1,8,12.5
+kochi,11,6,17,35.294117647058826
+pamba,2,1,3,33.33333333333333
+sabarimala,2,0,2,0.0
+qatar,3,0,3,0.0
+uae,15,29,44,65.9090909090909
+palakkad,5,1,6,16.666666666666664
+muthalamada,1,0,1,0.0
+kollangode,1,0,1,0.0
+onam,1,11,12,91.66666666666666
+perumbavoor,2,0,2,0.0
+pinarayi vijayan,3,7,10,70.0
+ashram,2,4,6,66.66666666666666
+​kerala,1,0,1,0.0
+pandanad,3,0,3,0.0
+chengannur,22,2,24,8.333333333333332
+cessna tech park,1,0,1,0.0
+jodupala,1,0,1,0.0
+kodagu,16,3,19,15.789473684210526
+maharashtra,6,2,8,25.0
+paramavu village,1,0,1,0.0
+vellappara,1,0,1,0.0
+idukki,5,1,6,16.666666666666664
+hindon,1,0,1,0.0
+thiruvananthapuram,6,4,10,40.0
+ernakulam,20,2,22,9.090909090909092
+lourdes matha hospital,1,0,1,0.0
+allapuzha,2,0,2,0.0
+odisha,10,2,12,16.666666666666664
+alappuzha,14,2,16,12.5
+kottayam,4,0,4,0.0
+rajithan,1,0,1,0.0
+kadamakkady,1,0,1,0.0
+gurgaon,4,0,4,0.0
+bengaluru,8,1,9,11.11111111111111
+kerela,5,3,8,37.5
+germany,5,3,8,37.5
+indias,2,7,9,77.77777777777779
+bhubaneswar,4,0,4,0.0
+visakhapatnam,1,0,1,0.0
+andhra pradesh,1,0,1,0.0
+nashik,1,0,1,0.0
+keralaflood,1,782,783,99.87228607918263
+st pauls kalamasery,1,0,1,0.0
+palakkads,1,0,1,0.0
+mangalam dam,1,0,1,0.0
+nagaland,5,0,5,0.0
+karunagapally,1,0,1,0.0
+nagarkovil,1,0,1,0.0
+paliekkara,1,0,1,0.0
+thrissur,4,0,4,0.0
+kumbalam,1,0,1,0.0
+cochin,3,2,5,40.0
+kumarakom,1,0,1,0.0
+pathanamthitta,11,0,11,0.0
+poonthura,2,0,2,0.0
+janakpuri,1,0,1,0.0
+madapura,1,0,1,0.0
+karnatakas,1,0,1,0.0
+kushalnagar,1,0,1,0.0
+bangalore,4,6,10,60.0
+rajiv gandhi stadium,1,0,1,0.0
+punjab,15,7,22,31.818181818181817
+alangad,1,0,1,0.0
+dubai,3,0,3,0.0
+nadavayal,1,0,1,0.0
+edavaka panchayat,1,0,1,0.0
+puthussery,1,0,1,0.0
+israel,27,28,55,50.90909090909091
+pandalam,3,0,3,0.0
+kaipathur,1,0,1,0.0
+kalady,1,0,1,0.0
+keralam,2,7,9,77.77777777777779
+chenganoor,2,0,2,0.0
+arattupuzha,2,0,2,0.0
+maldives,5,1,6,16.666666666666664
+singareni,1,0,1,0.0
+omalloor panchayat,1,0,1,0.0
+trivandrum,5,4,9,44.44444444444444
+peroorkada,1,1,2,50.0
+sudarshan chakra,1,0,1,0.0
+thiruvilla,1,0,1,0.0
+nepal,13,0,13,0.0
+pathanamthita,1,0,1,0.0
+angamaly,2,1,3,33.33333333333333
+wayanad,7,0,7,0.0
+chennai,9,3,12,25.0
+keralafloods,1,563,564,99.822695035461
+pala,1,21,22,95.45454545454545
+aranmula,4,1,5,20.0
+keralas,2,51,53,96.22641509433963
+paramashivam,1,0,1,0.0
+hyderabad,4,3,7,42.857142857142854
+chenganur,3,0,3,0.0
+kannur,6,0,6,0.0
+tamil nadu,4,0,4,0.0
+andaman,1,0,1,0.0
+kozhikode,2,0,2,0.0
+the idukki district,1,0,1,0.0
+edapally,1,0,1,0.0
+waynad collectorate,1,0,1,0.0
+waynad,1,0,1,0.0
+alapuzha,1,0,1,0.0
+kuthiyathodu,1,0,1,0.0
+indian,9,86,95,90.52631578947368
+paravoor,1,1,2,50.0
+ernakulam district,1,4,5,80.0
+nilambur,1,0,1,0.0
+madurai,1,0,1,0.0
+paravur,3,1,4,25.0
+aryanadu,1,0,1,0.0
+gujarath,1,0,1,0.0
+dravidanadu,1,0,1,0.0
+nagarjuna,1,0,1,0.0
+amala,1,5,6,83.33333333333334
+chiranjeevi,1,1,2,50.0
+maheshbabu-,1,0,1,0.0
+kalyanram,1,0,1,0.0
+varuntej,1,0,1,0.0
+cessna business park,1,0,1,0.0
+marathahalli,1,0,1,0.0
+vizhinjam,2,0,2,0.0
+pozhiyoor,1,0,1,0.0
+bihar,6,1,7,14.285714285714285
+jharkhand,3,1,4,25.0
+kuttanad,4,0,4,0.0
+aleppy,1,0,1,0.0
+thiruvalla,3,1,4,25.0
+himalaya,1,0,1,0.0
+up,1,2544,2545,99.96070726915521
+uttarakhand,6,1,7,14.285714285714285
+sri mookambika temple,1,0,1,0.0
+kollur,1,0,1,0.0
+andhra jyothi,1,0,1,0.0
+ayyappa college hostel,1,0,1,0.0
+malappuram,1,0,1,0.0
+kallangadi,1,0,1,0.0
+kunnamkulam,2,0,2,0.0
+hotel livia tower,1,0,1,0.0
+keral,1,1009,1010,99.9009900990099
+geneva,1,0,1,0.0
+the akshaya patra foundation,1,0,1,0.0
+kottiyur,2,0,2,0.0
+ahmedabad,1,0,1,0.0
+telangana,6,2,8,25.0
+chalakudy,3,0,3,0.0
+tripura,1,0,1,0.0
+ramthakur college,1,0,1,0.0
+agartala,1,0,1,0.0
+malampuzhas,1,0,1,0.0
+valiyakadu,1,0,1,0.0
+lalkrishna,1,0,1,0.0
+malakara temple,1,0,1,0.0
+haripad,1,0,1,0.0
+moodbidri,1,0,1,0.0
+killari,1,0,1,0.0
+pangala,1,0,1,0.0
+padubidri,1,0,1,0.0
+rakhi,1,2,3,66.66666666666666
+vizag,1,0,1,0.0
+mangalore,1,1,2,50.0
+dindugal,1,0,1,0.0
+sdma,1,3,4,75.0
+vypeen,1,0,1,0.0
+coorg,1,5,6,83.33333333333334
+sri venkatramana temple,1,0,1,0.0
+shirdi,1,0,1,0.0
+gandhi indoor stadium,1,1,2,50.0
+adlux convention centre,1,0,1,0.0
+bakra,1,0,1,0.0
+dharampuri,1,0,1,0.0
+kaggdaspura,1,0,1,0.0
+maharashtras ahmednagar,1,0,1,0.0
+adlux convention center angamaly,1,0,1,0.0
+karukutty,1,0,1,0.0
+amu,1,23,24,95.83333333333334
+aligarh muslim university,1,0,1,0.0
+jalandhar,1,0,1,0.0
+apartments in mayur vihar phase one,1,0,1,0.0
+agamaly,1,0,1,0.0
+tirupati railway station,1,0,1,0.0
+kadiyanthuruthil house,1,0,1,0.0
+peringara,1,0,1,0.0
+newdelhi,1,0,1,0.0
+seva bharti,1,0,1,0.0
+ezhikkath,1,0,1,0.0
+calicut,1,0,1,0.0
+kullu,1,0,1,0.0
+nagar haveli,1,1,2,50.0
+kozhincherry,1,0,1,0.0
+coimbatore,2,0,2,0.0
+rajiv gandhi,1,2,3,66.66666666666666
+chowara,1,0,1,0.0
+tirupati,2,1,3,33.33333333333333
+manhattan,2,1,3,33.33333333333333
+mulund,1,0,1,0.0
+bhandup,1,0,1,0.0
+khajuria,1,0,1,0.0
+maha,1,69,70,98.57142857142858
+kakkanad,1,0,1,0.0
+st marys orthodox syrian church,1,0,1,0.0
+thrikkakara,1,0,1,0.0
+swachha,1,0,1,0.0
+sundara,1,0,1,0.0
+abudhabi,1,0,1,0.0
+kanyakumari,1,0,1,0.0
+thuckalay,1,0,1,0.0
+chinnathurai,1,0,1,0.0
+thoothoor,1,0,1,0.0
+-malavana,1,0,1,0.0
+puthenvelikkara,1,0,1,0.0
+begumpet,1,0,1,0.0
+pampa,2,1,3,33.33333333333333
+vadakara,1,0,1,0.0
+sudha,1,3,4,75.0
+mullaperiyardam,1,1,2,50.0
+kozhencherry,1,0,1,0.0
+north paravoor,1,0,1,0.0
+madavana,1,0,1,0.0
+trichur,1,0,1,0.0
+jammu,3,18,21,85.71428571428571
+achankovil,1,0,1,0.0
+pakistan,315,53,368,14.402173913043478
+philadelphia,5,1,6,16.666666666666664
+kollam,1,1,2,50.0
+kasaragod,1,1,2,50.0
+tn,2,298,300,99.33333333333333
+indians,1,11,12,91.66666666666666
+northparavur,1,0,1,0.0
+allepy,1,0,1,0.0
+kongorpilly,1,0,1,0.0
+pallipad village,1,0,1,0.0
+latur,1,0,1,0.0
+bhuj,1,0,1,0.0
+bhopal,1,0,1,0.0
+ratlam,1,0,1,0.0
+palghat,1,0,1,0.0
+@kerala,1,9,10,90.0
+kadungalloor,1,0,1,0.0
+kadangaloor,1,0,1,0.0
+cherthala,1,0,1,0.0
+nelliampathi,1,0,1,0.0
+chalakkudy,1,0,1,0.0
+ludhiana,1,0,1,0.0
+pamba river,1,0,1,0.0
+keralafloods relief housing,1,0,1,0.0
+kanichukulangara,1,0,1,0.0
+alappuzha district,1,4,5,80.0
+pallippad village,1,0,1,0.0
+karthikapally taluk,1,0,1,0.0
+maharashtra state,1,0,1,0.0
+kottappuram,1,0,1,0.0
+kadavantra,1,0,1,0.0
+vaikom,2,0,2,0.0
+asramam,1,0,1,0.0
+sienna plantation,1,2,3,66.66666666666666
+houstons,2,22,24,91.66666666666666
+austin,14,17,31,54.83870967741935
+port arthur,7,4,11,36.36363636363637
+asia,3,14,17,82.35294117647058
+texascity,1,0,1,0.0
+ohio valley,1,0,1,0.0
+tampa bay,5,0,5,0.0
+texans,5,13,18,72.22222222222221
+rockport,13,7,20,35.0
+downtown,1,15,16,93.75
+ne,7,10048,10055,99.93038289408254
+memphis,3,0,3,0.0
+new jersey,5,0,5,0.0
+sanantonio,2,2,4,50.0
+harris,3,14,17,82.35294117647058
+arkema chemical plant,1,1,2,50.0
+cypress,1,4,5,80.0
+fulton,1,3,4,75.0
+galveston,7,3,10,30.0
+harris county,5,2,7,28.57142857142857
+river plantation,1,0,1,0.0
+conroe,1,0,1,0.0
+beaumont,6,6,12,50.0
+college station,2,0,2,0.0
+kings square apartments,1,0,1,0.0
+corpus christi,5,2,7,28.57142857142857
+portarthur,6,5,11,45.45454545454545
+new orleans,1,0,1,0.0
+middletown,1,0,1,0.0
+exxonmobil refineries,1,2,3,66.66666666666666
+channelview,1,0,1,0.0
+pasadena,2,0,2,0.0
+san antonio,4,0,4,0.0
+iraq,1,0,1,0.0
+jeffersoncounty,1,0,1,0.0
+richtonpark,1,0,1,0.0
+mexico,755,309,1064,29.041353383458645
+bangladesh,16,3,19,15.789473684210526
+🇺🇸,1,5,6,83.33333333333334
+gulf healthcare center,1,0,1,0.0
+montana,4,2,6,33.33333333333333
+peach county,1,0,1,0.0
+whites creek,1,0,1,0.0
+sugar land,1,1,2,50.0
+hhouston,1,0,1,0.0
+elm grove,1,0,1,0.0
+fuqua,1,1,2,50.0
+pickens,2,0,2,0.0
+alpharetta,2,0,2,0.0
+los angeles,14,1,15,6.666666666666667
+li,1,7441,7442,99.9865627519484
+port aransas,4,0,4,0.0
+sacramento,8,2,10,20.0
+brazoria,2,3,5,60.0
+fort bend,1,2,3,66.66666666666666
+vegas,3,7,10,70.0
+charlottesville,2,0,2,0.0
+arlington,2,1,3,33.33333333333333
+europe,13,24,37,64.86486486486487
+victoria,3,6,9,66.66666666666666
+galveston county,3,1,4,25.0
+hurricane harvey,3,299,302,99.00662251655629
+kingsport,1,1,2,50.0
+ridgewood,2,0,2,0.0
+port lavaca,1,0,1,0.0
+woodlands,1,1,2,50.0
+texas-,1,1,2,50.0
+venezuela,11,2,13,15.384615384615385
+sour lake,1,0,1,0.0
+george r. brown convention center,1,0,1,0.0
+wharton,1,0,1,0.0
+east bernard,1,0,1,0.0
+coastal bend,1,0,1,0.0
+dayton,1,7,8,87.5
+americans,2,65,67,97.01492537313433
+northgate,1,0,1,0.0
+aransascounty,1,0,1,0.0
+city hall courtyard,1,0,1,0.0
+@houstontx,1,0,1,0.0
+crosby,1,2,3,66.66666666666666
+port oconnor,1,0,1,0.0
+greens bayou,1,0,1,0.0
+pewaukee,1,0,1,0.0
+potters house community of churches,1,0,1,0.0
+aransas county,1,1,2,50.0
+uab hospital,1,0,1,0.0
+tuscaloosa,1,0,1,0.0
+huston,1,1,2,50.0
+columbia lakes,1,0,1,0.0
+harvey,1,1006,1007,99.90069513406156
+fort worth,1,2,3,66.66666666666666
+wilkerson greines athletic center,1,0,1,0.0
+5201 ca roberson blvd,1,0,1,0.0
+missouri city,1,0,1,0.0
+banfield foundation,1,0,1,0.0
+shelter 3435 dixie rd,1,0,1,0.0
+american red cross,2,40,42,95.23809523809523
+austin convention center,1,0,1,0.0
+baytown,1,0,1,0.0
+orange,6,21,27,77.77777777777779
+abilene,1,1,2,50.0
+aransas,1,7,8,87.5
+lake forest,1,1,2,50.0
+texan,1,19,20,95.0
+san marcos river,1,0,1,0.0
+luling,1,0,1,0.0
+lake of the ozarks,1,0,1,0.0
+brazoria county,2,1,3,33.33333333333333
+first congregational church,1,0,1,0.0
+sunnyside,1,1,2,50.0
+sa,1,3419,3420,99.97076023391813
+mx,5,43,48,89.58333333333334
+mexicos,56,11,67,16.417910447761194
+walmart,3,15,18,83.33333333333334
+iredell,1,0,1,0.0
+white house,1,9,10,90.0
+irving,1,2,3,66.66666666666666
+morgan city,1,0,1,0.0
+decatur county,1,0,1,0.0
+victoria county,1,0,1,0.0
+thermopolis,1,0,1,0.0
+puerto rican,9,18,27,66.66666666666666
+pr,30,3096,3126,99.04030710172745
+dominica,60,25,85,29.411764705882355
+the caribbean,5,36,41,87.8048780487805
+french,1,11,12,91.66666666666666
+guadeloupe,3,0,3,0.0
+cuba,53,15,68,22.058823529411764
+us embassy,1,1,2,50.0
+naranjito,1,1,2,50.0
+barranquitas,1,0,1,0.0
+puertorico-,1,0,1,0.0
+n. carolina,1,0,1,0.0
+san juan,24,5,29,17.24137931034483
+rios cana,1,0,1,0.0
+sunsetpark,1,0,1,0.0
+saint john parish,1,0,1,0.0
+st. croix,5,2,7,28.57142857142857
+vieques,2,5,7,71.42857142857143
+antigua and barbuda,1,0,1,0.0
+puerto ricos,15,0,15,0.0
+st croix,1,0,1,0.0
+stcroix,1,1,2,50.0
+caribbean island,2,12,14,85.71428571428571
+miami lakes,2,0,2,0.0
+jackson,1,32,33,96.96969696969697
+barbuda,18,1,19,5.263157894736842
+turks and caicos,2,0,2,0.0
+puertoricos,2,11,13,84.61538461538461
+stthomas,3,0,3,0.0
+usvi,3,19,22,86.36363636363636
+nyc,15,16,31,51.61290322580645
+st thomas,1,1,2,50.0
+ceiba,1,2,3,66.66666666666666
+vega alta,1,0,1,0.0
+puerto ricans,3,5,8,62.5
+portland,1,1,2,50.0
+p.r.,3,1,4,25.0
+norfolk,4,3,7,42.857142857142854
+kalinago,1,0,1,0.0
+french antilles,2,0,2,0.0
+caribbean,30,74,104,71.15384615384616
+melrose st,1,0,1,0.0
+buchwick & broadway,1,0,1,0.0
+dominican republic,17,0,17,0.0
+aguadilla,1,0,1,0.0
+comerio,2,1,3,33.33333333333333
+ponce,1,0,1,0.0
+peñuelas,1,0,1,0.0
+cabo rojo,1,0,1,0.0
+guanica,1,0,1,0.0
+ocracoke island,2,1,3,33.33333333333333
+hyde county,1,0,1,0.0
+hackney,1,1,2,50.0
+london,14,12,26,46.15384615384615
+utuado,3,0,3,0.0
+helppuertoriconow,1,3,4,75.0
+haiti,652,26,678,3.8348082595870205
+arecibo,10,5,15,33.33333333333333
+580 66th st,1,0,1,0.0
+adjuntas,1,1,2,50.0
+dominican,1,20,21,95.23809523809523
+puertoricorelief,1,20,21,95.23809523809523
+puertoricostrong,1,7,8,87.5
+dominicas,1,0,1,0.0
+arguably the americans,1,0,1,0.0
+louisianans,1,0,1,0.0
+puerteo ricos,1,0,1,0.0
+san juan bay,1,0,1,0.0
+aibonito,1,0,1,0.0
+barrio pasto,1,0,1,0.0
+nigerian,1,2,3,66.66666666666666
+dominican island,1,1,2,50.0
+u.s. virgin islands,2,9,11,81.81818181818183
+us virgin islands,7,4,11,36.36363636363637
+saint croix st,1,0,1,0.0
+us virgin island,1,11,12,91.66666666666666
+hurricane maria,1,431,432,99.76851851851852
+outer banks of nc,1,0,1,0.0
+durant road middle school,1,0,1,0.0
+the new york times,1,4,5,80.0
+cape hatteras,1,0,1,0.0
+cuban,5,10,15,66.66666666666666
+guayama,1,0,1,0.0
+@puertorico,1,2,3,66.66666666666666
+puertoric,1,225,226,99.5575221238938
+hatillo,1,0,1,0.0
+palestine,5,0,5,0.0
+west seattle,1,0,1,0.0
+isabella,1,0,1,0.0
+quebradillas,1,0,1,0.0
+calgary,11,9,20,45.0
+dominicanrepublic,2,0,2,0.0
+newark,1,0,1,0.0
+sansebastian,1,0,1,0.0
+detroit,1,0,1,0.0
+miami beach,4,1,5,20.0
+montclair,1,0,1,0.0
+long island,1,1,2,50.0
+sabana grande,1,0,1,0.0
+river yuna,1,0,1,0.0
+guajataca dam,1,2,3,66.66666666666666
+puero rico,1,0,1,0.0
+sandiego,2,6,8,75.0
+south of the island,1,0,1,0.0
+guajataca,2,1,3,33.33333333333333
+puerto ricoalready,1,0,1,0.0
+cayosantiago,1,0,1,0.0
+elyunque,1,0,1,0.0
+small us,1,0,1,0.0
+tuition,1,2,3,66.66666666666666
+puerto ri,1,441,442,99.77375565610859
+washington,20,14,34,41.17647058823529
+helppuertorico,1,12,13,92.3076923076923
+spivak foundation,1,0,1,0.0
+united states of america,1,0,1,0.0
+yabucoa,1,0,1,0.0
+uk,37,148,185,80.0
+turks & caicos islands,1,0,1,0.0
+shreveport,1,0,1,0.0
+dominica἞9἟2,1,0,1,0.0
+pr island of vieques,1,0,1,0.0
+chicopee church,1,0,1,0.0
+island of vieques,1,1,2,50.0
+sanjuan,1,3,4,75.0
+catholic charities of central florida,1,0,1,0.0
+forpuertorico,1,7,8,87.5
+maunabo,1,0,1,0.0
+minnesota,4,0,4,0.0
+coamo,1,0,1,0.0
+camuy,1,0,1,0.0
+virgin island,1,29,30,96.66666666666667
+kansas,20,10,30,33.33333333333333
+valley,3,21,24,87.5
+omaha,34,12,46,26.08695652173913
+manchester,4,0,4,0.0
+iowa,90,14,104,13.461538461538462
+elkhorn middle school,1,0,1,0.0
+payless store,1,11,12,91.66666666666666
+nebraska city,1,1,2,50.0
+hamburg,1,0,1,0.0
+ohio,12,4,16,25.0
+albany,1,3,4,75.0
+dakotas,2,0,2,0.0
+fulton county,1,0,1,0.0
+boyd county,1,0,1,0.0
+missouri,23,4,27,14.814814814814813
+wisconsin,12,0,12,0.0
+oglala lakota nation,1,0,1,0.0
+mozambique,380,17,397,4.282115869017632
+colombia,8,2,10,20.0
+columbus,9,4,13,30.76923076923077
+south dakota,12,0,12,0.0
+sd,1,299,300,99.66666666666667
+nd,1,8519,8520,99.98826291079811
+mt,1,98,99,98.98989898989899
+wy,1,44,45,97.77777777777777
+nebraskans,2,9,11,81.81818181818183
+albion,1,0,1,0.0
+tyndall,1,4,5,80.0
+colorado,3,0,3,0.0
+western iowa,1,1,2,50.0
+lincoln,9,13,22,59.09090909090909
+fremont,7,13,20,65.0
+illinois,2,1,3,33.33333333333333
+boyd,1,1,2,50.0
+holt,1,0,1,0.0
+knox,1,5,6,83.33333333333334
+fall creek,1,0,1,0.0
+midwest,3,48,51,94.11764705882352
+elkhorn river,3,0,3,0.0
+western douglas county,1,0,1,0.0
+grand island,1,0,1,0.0
+wood river community,1,1,2,50.0
+nebraskas,8,102,110,92.72727272727272
+iowa city,1,0,1,0.0
+northdakota,1,0,1,0.0
+north carolina to omaha,1,0,1,0.0
+ashland,1,0,1,0.0
+auburn,1,0,1,0.0
+marysville,2,0,2,0.0
+nebraskan,2,12,14,85.71428571428571
+fremont island,1,0,1,0.0
+fairbury,1,2,3,66.66666666666666
+endicott,1,0,1,0.0
+reynolds,1,1,2,50.0
+nemaha,2,0,2,0.0
+richardson counties,1,0,1,0.0
+woodbury,1,0,1,0.0
+sioux city,2,0,2,0.0
+lynch,1,2,3,66.66666666666666
+niobrara,1,0,1,0.0
+highway 34 near bellevue,1,0,1,0.0
+maine,2,10,12,83.33333333333334
+tulsa,1,1,2,50.0
+africa,38,61,99,61.61616161616161
+kc,1,34,35,97.14285714285714
+missouri river,3,3,6,50.0
+tekamah south,1,0,1,0.0
+falls city,1,0,1,0.0
+guatemala,1,0,1,0.0
+honduras,2,0,2,0.0
+el salvador,1,0,1,0.0
+north dakota,9,0,9,0.0
+wisner,1,0,1,0.0
+wyoming,2,0,2,0.0
+glenwood,1,0,1,0.0
+depth,1,9,10,90.0
+douglas,1,4,5,80.0
+otoe,1,13,14,92.85714285714286
+richardson,1,4,5,80.0
+sarpy,1,0,1,0.0
+chadron,1,0,1,0.0
+alliance,1,6,7,85.71428571428571
+mullen,1,1,2,50.0
+hyannis,1,0,1,0.0
+gordon,1,7,8,87.5
+northern nebraska,1,0,1,0.0
+lake wanahoo,1,0,1,0.0
+eldorado,1,0,1,0.0
+preston,2,0,2,0.0
+stewartville,1,1,2,50.0
+manitoba,14,3,17,17.647058823529413
+fullerton,1,0,1,0.0
+alaska,1,1,2,50.0
+idaho,2,1,3,33.33333333333333
+vermont,1,0,1,0.0
+scottsbluff,1,1,2,50.0
+eastern ne research center,1,0,1,0.0
+wood river,1,2,3,66.66666666666666
+cattle drive lincoln,1,0,1,0.0
+claremore,1,0,1,0.0
+bomgaars,1,0,1,0.0
+panama city,2,0,2,0.0
+lasvegas,1,1,2,50.0
+huntsville,1,0,1,0.0
+saunders county,1,1,2,50.0
+columbia county,1,1,2,50.0
+waterloo,4,2,6,33.33333333333333
+bellevue,2,2,4,50.0
+lincoln metro,1,0,1,0.0
+creighton university,1,0,1,0.0
+omaha beef,1,0,1,0.0
+schuyler,1,0,1,0.0
+platte river,1,0,1,0.0
+saunders,1,1,2,50.0
+christian church,1,0,1,0.0
+@nebraska,1,5,6,83.33333333333334
+southdakota,1,0,1,0.0
+oaxaca,15,0,15,0.0
+méxico,5,15,20,75.0
+la galarza,1,0,1,0.0
+taiwan,7,1,8,12.5
+thailand,2,1,3,33.33333333333333
+israels,1,1,2,50.0
+ontario,15,1,16,6.25
+juchitan,1,1,2,50.0
+losangeles,3,0,3,0.0
+cdmx,6,10,16,62.5
+del valle,1,1,2,50.0
+chiapas,4,1,5,20.0
+jojutla,2,2,4,50.0
+tlaquiltenango,1,0,1,0.0
+morelos,9,0,9,0.0
+puebla,4,2,6,33.33333333333333
+edomex,1,0,1,0.0
+guerrero,1,3,4,75.0
+korean,3,3,6,50.0
+paredon,1,0,1,0.0
+l.a.,2,0,2,0.0
+mexico citys,3,5,8,62.5
+san diego,9,0,9,0.0
+benito juárez,1,0,1,0.0
+chimalpopoca textile factory,1,0,1,0.0
+la county,1,4,5,80.0
+ixtepec,1,0,1,0.0
+mexico.,1,67,68,98.52941176470588
+la condesa,1,1,2,50.0
+mexico-,1,0,1,0.0
+colegio enrique rebsamen,1,1,2,50.0
+mexicocity,7,5,12,41.66666666666667
+625 h street,1,0,1,0.0
+bolivar,1,0,1,0.0
+chimalpopoca,1,2,3,66.66666666666666
+cohetzala,1,0,1,0.0
+coatetelco,1,0,1,0.0
+miacatlan,1,0,1,0.0
+pico arena,1,0,1,0.0
+mexico city airport,1,0,1,0.0
+izucar de matamoros,1,0,1,0.0
+bolivia,1,0,1,0.0
+lostopos,1,1,2,50.0
+barcelona,1,0,1,0.0
+cuernavaca,1,0,1,0.0
+atzitzihuacan,1,0,1,0.0
+tetela del volcan,1,0,1,0.0
+mexico.ἰd,1,0,1,0.0
+἟2἟dmexico d.f.,1,0,1,0.0
+laredo,1,1,2,50.0
+chapultepec,1,0,1,0.0
+coyoacan,1,0,1,0.0
+arizona,2,1,3,33.33333333333333
+spain,4,1,5,20.0
+guadalajara,1,0,1,0.0
+baltimore,21,6,27,22.22222222222222
+ellicott city,115,9,124,7.258064516129033
+ellicott,10,128,138,92.7536231884058
+frederick,1,4,5,80.0
+libertytown,1,0,1,0.0
+howard county,11,4,15,26.666666666666668
+ellicottcity,10,9,19,47.368421052631575
+marylands,3,2,5,40.0
+ocean city,1,0,1,0.0
+patapsco river,9,1,10,10.0
+ellicot city,1,1,2,50.0
+howard,5,14,19,73.68421052631578
+montgomerycounty,1,0,1,0.0
+i-495 at route 29,1,0,1,0.0
+cheverly,1,0,1,0.0
+ellicot,1,139,140,99.28571428571429
+fort lauderdale,3,1,4,25.0
+baltimore county,1,1,2,50.0
+prince george’s,1,0,1,0.0
+maryland city,3,9,12,75.0
+elliott city,2,0,2,0.0
+baltimore-,1,0,1,0.0
+md,4,93,97,95.87628865979381
+md.,2,4,6,66.66666666666666
+fort point,1,0,1,0.0
+fauquier,1,0,1,0.0
+laurel,1,5,6,83.33333333333334
+carroll,1,1,2,50.0
+leesburg,1,0,1,0.0
+lansdowne,1,0,1,0.0
+purcellville,1,0,1,0.0
+middleburg,3,0,3,0.0
+oatlands,1,0,1,0.0
+hamilton,1,4,5,80.0
+saint louis,1,0,1,0.0
+paeonian springs,1,0,1,0.0
+gleedsville,1,0,1,0.0
+waterford,1,0,1,0.0
+lucketts,1,0,1,0.0
+aldie,1,0,1,0.0
+philomont,1,0,1,0.0
+hughesville,1,0,1,0.0
+prince georges,1,1,2,50.0
+charles,1,27,28,96.42857142857143
+pg county,1,0,1,0.0
+township of monroe,1,0,1,0.0
+jersey,1,8,9,88.88888888888889
+elliot city,1,1,2,50.0
+west midlands,1,0,1,0.0
+williamsport,1,0,1,0.0
+route 68,1,0,1,0.0
+conococheague creek,1,0,1,0.0
+potomac river,1,0,1,0.0
+johnstown,2,0,2,0.0
+st. johns river,1,0,1,0.0
+varadero,1,0,1,0.0
+cayo coco,1,0,1,0.0
+central region,1,2,3,66.66666666666666
+lake butler,1,0,1,0.0
+indian river,2,2,4,50.0
+liberty magnet,1,0,1,0.0
+sint maarten,1,0,1,0.0
+saint barthelemy,1,0,1,0.0
+saint martin,5,0,5,0.0
+st. maarten,6,1,7,14.285714285714285
+sri lanka,90,8,98,8.16326530612245
+glades,1,19,20,95.0
+fort myers,3,0,3,0.0
+@palmbeachzoo,1,0,1,0.0
+orange county,3,2,5,40.0
+st. martin,8,1,9,11.11111111111111
+st. thomas,1,1,2,50.0
+farad,1,0,1,0.0
+bass lake,1,0,1,0.0
+medical university of south carolina,1,0,1,0.0
+hollywood hills,1,0,1,0.0
+stmartin,3,1,4,25.0
+alachua county,1,0,1,0.0
+hillsborough county,1,0,1,0.0
+broward,2,5,7,71.42857142857143
+essex county,1,0,1,0.0
+liberia,2,0,2,0.0
+china,14,18,32,56.25
+bonita springs,3,0,3,0.0
+rosen hotels & resorts,1,0,1,0.0
+college park,1,0,1,0.0
+polks cities,1,0,1,0.0
+south florida,14,20,34,58.82352941176471
+victoriapark,1,0,1,0.0
+altanta,1,0,1,0.0
+salamis,1,0,1,0.0
+island of cyprus,1,0,1,0.0
+caribbean luxury resort,1,0,1,0.0
+bayou city,1,0,1,0.0
+st martin,3,1,4,25.0
+birmingham,2,0,2,0.0
+malkajgiri,1,0,1,0.0
+keywest,2,3,5,60.0
+monroecounty,1,0,1,0.0
+us virgin,1,11,12,91.66666666666666
+desoto county,1,0,1,0.0
+norcia,2,1,3,33.33333333333333
+clayton county,1,0,1,0.0
+volcano crater,1,0,1,0.0
+santa fe river,2,1,3,33.33333333333333
+immokalee,1,2,3,66.66666666666666
+tarapaca,1,0,1,0.0
+georgias,2,0,2,0.0
+floridas state parks,1,0,1,0.0
+hotel orlando airport,1,0,1,0.0
+netherlands,2,0,2,0.0
+key west,4,5,9,55.55555555555556
+saint-martin,1,0,1,0.0
+uss,1,73,74,98.64864864864865
+naples,9,1,10,10.0
+hollywood,6,2,8,25.0
+duval county,2,1,3,33.33333333333333
+talladega,1,1,2,50.0
+collier co.,1,0,1,0.0
+st. croix hometown,1,0,1,0.0
+hill n dale,1,0,1,0.0
+302 magnolia street west. 8,1,0,1,0.0
+peace river,1,0,1,0.0
+usvirginislands,2,1,3,33.33333333333333
+culebra,3,0,3,0.0
+black creek,1,1,2,50.0
+lakeland,2,0,2,0.0
+sonesta guests,1,0,1,0.0
+gatorama,1,0,1,0.0
+germain arena,1,0,1,0.0
+anguilla,4,1,5,20.0
+cayman compass,1,0,1,0.0
+floridians,2,22,24,91.66666666666666
+havana,1,0,1,0.0
+fla.,1,6,7,85.71428571428571
+sims auto park,1,0,1,0.0
+sebring airport,1,0,1,0.0
+british virgin islands,2,0,2,0.0
+the spartanburg school district,1,0,1,0.0
+137 ave sw 30th street,1,0,1,0.0
+cayman islands,1,0,1,0.0
+stlouis,1,2,3,66.66666666666666
+st. petersburgs,1,0,1,0.0
+sunny isles beach,1,0,1,0.0
+new yorks,1,0,1,0.0
+bahamas,197,11,208,5.288461538461538
+floridians assess,1,1,2,50.0
+monongahela,1,0,1,0.0
+ross norton recreational center,1,0,1,0.0
+perry,1,10,11,90.9090909090909
+ok,1,700,701,99.85734664764621
+unitedstates,2,0,2,0.0
+flooded roads,1,5,6,83.33333333333334
+st maarten,1,0,1,0.0
+east foothills,1,0,1,0.0
+tuscany,1,0,1,0.0
+kalaburgi,1,0,1,0.0
+bradford county,1,0,1,0.0
+monroe co.,1,0,1,0.0
+freetown,2,0,2,0.0
+st. barthelemy,1,0,1,0.0
+st. john,2,9,11,81.81818181818183
+w. magnolia st.,1,0,1,0.0
+brevard,6,17,23,73.91304347826086
+capitolhill,1,0,1,0.0
+mexican,2,43,45,95.55555555555556
+carribean,1,0,1,0.0
+tortola,2,0,2,0.0
+kona,1,0,1,0.0
+callahan,1,0,1,0.0
+the caribbean islands,1,0,1,0.0
+manatee,1,3,4,75.0
+caribbean islands,3,6,9,66.66666666666666
+cubas,1,0,1,0.0
+duval,1,3,4,75.0
+highlands county,1,0,1,0.0
+margate,1,0,1,0.0
+riverstone,1,0,1,0.0
+bradenton,1,0,1,0.0
+nrg park,1,0,1,0.0
+floridakeys,1,7,8,87.5
+orangecounty,1,0,1,0.0
+nationalparks,1,0,1,0.0
+bunnell evac center,1,0,1,0.0
+virgin isles,1,0,1,0.0
+bvi island,1,0,1,0.0
+bvi,1,9,10,90.0
+st barts,1,1,2,50.0
+"high springs memorial park, 17380 n.w. us hwy 441",1,0,1,0.0
+puerto rico~,1,0,1,0.0
+santa fe,1,2,3,66.66666666666666
+9880 w sample,1,0,1,0.0
+coral springs,1,0,1,0.0
+collier county,2,1,3,33.33333333333333
+sarasota,3,0,3,0.0
+polk county,3,0,3,0.0
+daytona,1,4,5,80.0
+ft. lauderdale,2,0,2,0.0
+trinidad y tobago,1,0,1,0.0
+st. johns county,2,0,2,0.0
+folly beach,1,0,1,0.0
+frankfort,1,0,1,0.0
+key largo,1,1,2,50.0
+antigua & barbuda,1,0,1,0.0
+portugal,4,0,4,0.0
+east bay,1,0,1,0.0
+valencia,1,2,3,66.66666666666666
+az,1,433,434,99.76958525345621
+palm beach county,7,4,11,36.36363636363637
+-north korea,1,0,1,0.0
+bentonville,1,0,1,0.0
+obriens,1,0,1,0.0
+brandon,1,2,3,66.66666666666666
+stmaarten,1,2,3,66.66666666666666
+st. barts,1,0,1,0.0
+marcos island,1,0,1,0.0
+aqua bistro,1,0,1,0.0
+stjohn,1,4,5,80.0
+monroe county,1,3,4,75.0
+northwesterm marion,1,0,1,0.0
+satilla river,1,0,1,0.0
+atkinson,1,1,2,50.0
+goodland,1,0,1,0.0
+lehigh acres,1,0,1,0.0
+harris countys,1,0,1,0.0
+westpalmbeach,2,0,2,0.0
+canadians,3,24,27,88.88888888888889
+uf football stadium,1,0,1,0.0
+silsbee,1,0,1,0.0
+nassau county,1,0,1,0.0
+2099 adams ln,1,0,1,0.0
+saintmartin,1,0,1,0.0
+necker island,1,0,1,0.0
+brevard county,8,5,13,38.46153846153847
+manatee county,1,1,2,50.0
+columbia counties,1,0,1,0.0
+coral gables,1,0,1,0.0
+marcoisland,1,0,1,0.0
+dekalb schools,1,0,1,0.0
+anna maria city,1,0,1,0.0
+ecuador,703,213,916,23.253275109170303
+ecuadors,41,9,50,18.0
+ecuadoran,1,0,1,0.0
+san clemente,1,0,1,0.0
+san francisco,4,1,5,20.0
+pedernales,8,19,27,70.37037037037037
+quito,13,16,29,55.172413793103445
+ecuadorearthquake,8,181,189,95.76719576719577
+manta,11,4,15,26.666666666666668
+portoviejo,5,4,9,44.44444444444444
+galapagos,2,0,2,0.0
+guayaquil,9,0,9,0.0
+ottawa,5,1,6,16.666666666666664
+japans,1,1,2,50.0
+south american,2,0,2,0.0
+tohoku,1,0,1,0.0
+kobe,1,2,3,66.66666666666666
+kumamoto,2,0,2,0.0
+peru,1,3,4,75.0
+canoa,3,3,6,50.0
+ecuadorian,1,10,11,90.9090909090909
+jama county,1,1,2,50.0
+coquimbo,1,0,1,0.0
+manabi,5,1,6,16.666666666666664
+guayas,1,0,1,0.0
+muisne,2,1,3,33.33333333333333
+southafrica,5,2,7,28.57142857142857
+uruguay,1,0,1,0.0
+mexico+(tsunami,1,0,1,0.0
+venezuelan,1,1,2,50.0
+isangel,1,0,1,0.0
+vanuatu,1,0,1,0.0
+quebec,2,5,7,71.42857142857143
+jerusalem,2,1,3,33.33333333333333
+us west coast,1,0,1,0.0
+salinas,1,0,1,0.0
+ecuad,1,876,877,99.8859749144812
+tabuga,1,0,1,0.0
+camarones,1,0,1,0.0
+jama,1,26,27,96.29629629629629
+ecuador´s,1,0,1,0.0
+manabí,2,0,2,0.0
+guayaqu,1,9,10,90.0
+kenya,3,3,6,50.0
+lady of perpetual exemption church,1,0,1,0.0
+cuenca,1,1,2,50.0
+australian east coast,1,0,1,0.0
+prefecture of el oro,1,0,1,0.0
+yokota,1,0,1,0.0
+crucita,1,0,1,0.0
+bahia,1,0,1,0.0
+machala,1,0,1,0.0
+vatican,5,2,7,28.57142857142857
+zimbabwe,243,79,322,24.53416149068323
+cabo delgado,1,0,1,0.0
+chipinge.,1,1,2,50.0
+zimre park,1,0,1,0.0
+chikwawa,3,0,3,0.0
+malawi,141,18,159,11.320754716981133
+newlands,2,0,2,0.0
+harare,6,11,17,64.70588235294117
+umvumvumvu bridge,1,0,1,0.0
+biriri high school,1,0,1,0.0
+nyanyadzi high school,1,0,1,0.0
+ngangu roman catholic,1,0,1,0.0
+nsanje,2,0,2,0.0
+mozambiques,6,0,6,0.0
+belarus,1,0,1,0.0
+beira,72,24,96,25.0
+manicaland,29,2,31,6.451612903225806
+chipinge,22,7,29,24.137931034482758
+cycloneidai,6,806,812,99.26108374384236
+mwanza,1,0,1,0.0
+chimanimani-,2,0,2,0.0
+beijing,2,0,2,0.0
+mahawu,1,0,1,0.0
+phalombe district,1,1,2,50.0
+south african,4,1,5,20.0
+manyame airbase,1,0,1,0.0
+chimanimani,92,14,106,13.20754716981132
+ngangu township,2,1,3,33.33333333333333
+presbyterian church,1,7,8,87.5
+kulinji,2,0,2,0.0
+ngangu,7,5,12,41.66666666666667
+royal australian,1,0,1,0.0
+7 kenilworth road,1,1,2,50.0
+southern africa,13,13,26,50.0
+mutare,9,6,15,40.0
+highlands presbyterian church,1,4,5,80.0
+zim,3,360,363,99.17355371900827
+eswatini,1,0,1,0.0
+60 speke avenue harare,1,0,1,0.0
+zambia,2,0,2,0.0
+bulawayo,6,3,9,33.33333333333333
+kampepuza,1,0,1,0.0
+tinokudai,2,1,3,33.33333333333333
+buzi district,1,2,3,66.66666666666666
+mashonjowa primary school,1,0,1,0.0
+paraguay,1,0,1,0.0
+argentina,1,0,1,0.0
+nwt,1,0,1,0.0
+midlands,1,2,3,66.66666666666666
+switzerland,1,0,1,0.0
+macurungo,2,1,3,33.33333333333333
+asakhe,2,3,5,60.0
+mozambican,3,6,9,66.66666666666666
+bizu,1,0,1,0.0
+chimanini,1,0,1,0.0
+nhamatanda,2,1,3,33.33333333333333
+masvingo,6,1,7,14.285714285714285
+buzi,1,6,7,85.71428571428571
+highlands presbyterian,1,5,6,83.33333333333334
+turkey,4,3,7,42.857142857142854
+tica,1,178,179,99.4413407821229
+maputo,3,2,5,40.0
+gorongosa park,2,0,2,0.0
+kenyas turkana county,1,0,1,0.0
+south sudan,1,0,1,0.0
+congo,1,0,1,0.0
+zimbabweans,7,14,21,66.66666666666666
+capetown,2,0,2,0.0
+dombe village,1,0,1,0.0
+manica,5,31,36,86.11111111111111
+mukuhlani,1,0,1,0.0
+port beira,1,2,3,66.66666666666666
+united emirates,1,0,1,0.0
+espungabera,2,0,2,0.0
+abu dhabi,2,0,2,0.0
+rusape,1,0,1,0.0
+nyanga,1,1,2,50.0
+zambézia,1,0,1,0.0
+tete,2,2,4,50.0
+niassa,1,0,1,0.0
+chamisa,1,10,11,90.9090909090909
+chimanimani high school,1,0,1,0.0
+vumba,1,0,1,0.0
+sweden,7,3,10,30.0
+sofala,7,0,7,0.0
+zambezia,2,0,2,0.0
+chimoio,1,0,1,0.0
+sussundenga,2,0,2,0.0
+humanitarian ngos,1,0,1,0.0
+zimba,1,310,311,99.67845659163987
+mtoko,2,0,2,0.0
+southern africas,1,0,1,0.0
+mozambiquen,1,0,1,0.0
+makhanga,1,0,1,0.0
+gorongosa national park,1,0,1,0.0
+tanzanian,1,1,2,50.0
+bangula,1,1,2,50.0
+ballito,1,0,1,0.0
+portuguese,1,1,2,50.0
+biera,1,0,1,0.0
+nyika,1,4,5,80.0
+botswana,2,0,2,0.0
+united nations,1,5,6,83.33333333333334
+somalia,1,0,1,0.0
+mali,1,36,37,97.2972972972973
+mhondoro-ngezi,1,0,1,0.0
+chikomba district,1,0,1,0.0
+mulanje,1,0,1,0.0
+marowanyati dam,1,1,2,50.0
+murambinda,2,0,2,0.0
+mwerahari river,2,0,2,0.0
+eastern zimbabwe,1,4,5,80.0
+south africa,2,5,7,71.42857142857143
+road to beira,1,0,1,0.0
+gorongosa district,1,0,1,0.0
+mnangagwa,1,19,20,95.0
+musikavanhu,1,0,1,0.0
+mutimurefu,1,0,1,0.0
+matabeleland,1,0,1,0.0
+matadouro,1,0,1,0.0
+malawis,1,0,1,0.0
+inhambane,1,0,1,0.0
+highlands,1,13,14,92.85714285714286
+nhampoca,1,0,1,0.0
+dombe,2,1,3,33.33333333333333
+malawi-,1,0,1,0.0
+gorongosa,1,4,5,80.0
+nyahonde,1,0,1,0.0
+copenhagen,1,1,2,50.0
+mutasa,1,3,4,75.0
+tanzania,5,2,7,28.57142857142857
+southernafrica,2,0,2,0.0
+redcross,2,264,266,99.24812030075188
+beira city,2,1,3,33.33333333333333
+umvumvu river,1,1,2,50.0
+au,1,1315,1316,99.92401215805471
+un,1,4908,4909,99.97962925239356
+264 chiremba rd,1,0,1,0.0
+the highlands presbyterian church drop,1,0,1,0.0
+belgium,4,0,4,0.0
+munhinga river,1,0,1,0.0
+munhinga,1,0,1,0.0
+eastern highlands,1,2,3,66.66666666666666
+nhamatanda district,1,0,1,0.0
+blantyre,3,0,3,0.0
+phalombe,4,1,5,20.0
+france,3,6,9,66.66666666666666
+tokwe,1,0,1,0.0
+mukosi,1,0,1,0.0
+chingwizi,1,0,1,0.0
+miracle missions,1,4,5,80.0
+nhedziwa road,1,0,1,0.0
+namibia,1,1,2,50.0
+tropical cyclones,1,3,4,75.0
+prophet bushiri’s ecg church,1,0,1,0.0
+charleswood,1,0,1,0.0
+estoril,1,0,1,0.0
+beira airport,1,5,6,83.33333333333334
+-mozambique,1,1,2,50.0
+chiwalo,2,0,2,0.0
+lawrence msonthi,1,0,1,0.0
+tuzuka,1,0,1,0.0
+sakuinje,1,0,1,0.0
+mamputa,1,0,1,0.0
+chikukwa,2,1,3,33.33333333333333
+chiredzi district,1,0,1,0.0
+chiwenga,1,1,2,50.0
+mangochi,1,0,1,0.0
+gweru,1,1,2,50.0
+borrowdale brooke golf estate,1,0,1,0.0
+warren park,1,0,1,0.0
+zimbabwean,2,24,26,92.3076923076923
+45 moffat ave hillside,1,0,1,0.0
+graca machel,1,0,1,0.0
+bikita,1,0,1,0.0
+mhakwe,1,0,1,0.0
+nyanyadzi,1,1,2,50.0
+zimbabwes,1,2,3,66.66666666666666
+avondale,1,0,1,0.0
+uganda,1,0,1,0.0
+southern malawi,1,0,1,0.0
+alberta,180,59,239,24.686192468619247
+fort mcmurray,254,76,330,23.03030303030303
+fortmcmurray,46,37,83,44.57831325301205
+albert,1,236,237,99.57805907172997
+fort mcmurray wildfire,1,173,174,99.42528735632183
+edmonton,10,30,40,75.0
+fort st. john,5,1,6,16.666666666666664
+albertas,8,17,25,68.0
+albertan,2,6,8,75.0
+wells fargo,1,1,2,50.0
+falcon lake,1,0,1,0.0
+mcmurray wildfire,3,202,205,98.53658536585365
+moncton,1,0,1,0.0
+fort mac,14,18,32,56.25
+athabaskan river,1,0,1,0.0
+new york city,2,0,2,0.0
+ft mac lutheran,1,0,1,0.0
+slave lake,5,1,6,16.666666666666664
+ft. mcmurray,5,4,9,44.44444444444444
+ftmcmurray,4,0,4,0.0
+northern alberta,1,5,6,83.33333333333334
+attawapiskat,6,10,16,62.5
+lesser slave lake,1,0,1,0.0
+mcmurray wildfires,1,2,3,66.66666666666666
+penniac,1,0,1,0.0
+fortmac,3,58,61,95.08196721311475
+nanaimo,1,2,3,66.66666666666666
+ruth lake,3,2,5,40.0
+fort mckay,1,0,1,0.0
+kamloops,2,3,5,60.0
+calgry,1,0,1,0.0
+fortmacfire,3,47,50,94.0
+albertans,3,3,6,50.0
+saskatchewan,3,4,7,57.14285714285714
+churchill river,1,0,1,0.0
+mcmurray,6,417,423,98.58156028368793
+hwy 63,1,0,1,0.0
+canadas,5,5,10,50.0
+lambton,1,3,4,75.0
+wood buffalo,3,0,3,0.0
+fortmcmur,1,83,84,98.80952380952381
+northlands,2,2,4,50.0
+bonnyville,3,0,3,0.0
+russia,5,5,10,50.0
+red cross,3,355,358,99.16201117318437
+for fort mcmurray,1,27,28,96.42857142857143
+nopiming provicial park,1,0,1,0.0
+syrian,3,21,24,87.5
+fox creek,4,0,4,0.0
+m.d,1,0,1,0.0
+powellriver,1,0,1,0.0
+regi,1,166,167,99.40119760479041
+ft mcmurray,3,1,4,25.0
+lambton county,1,0,1,0.0
+greenview,1,3,4,75.0
+cape breton,1,1,2,50.0
+sydney,1,3,4,75.0
+etobicoke,1,0,1,0.0
+ft. macmurray,1,0,1,0.0
+north cross,1,0,1,0.0
+south cross,1,0,1,0.0
+dickinsfield,2,0,2,0.0
+clenell crescent home,1,0,1,0.0
+fort mcmurry,1,0,1,0.0
+@mayordavepelham,1,0,1,0.0
+bc,1,461,462,99.78354978354979
+lac du bois,1,0,1,0.0
+oconnor rd,1,0,1,0.0
+little smoky,1,2,3,66.66666666666666
+bold centre,1,0,1,0.0
+british columbia,2,1,3,33.33333333333333
+fort mcmurr,1,330,331,99.69788519637463
+boreal,1,1,2,50.0
+new brunswick,2,1,3,33.33333333333333
+fort mcmurrary,1,0,1,0.0
+ruth lake camp,2,1,3,33.33333333333333
+clear hills county,1,0,1,0.0
+canadian city,1,5,6,83.33333333333334
+mcmurray wildfire fund,1,1,2,50.0
+fort,1,1320,1321,99.92429977289932
+buena vista,1,0,1,0.0
+nova scotia,2,0,2,0.0
+edmonton northlands,1,0,1,0.0
+sunnyside natural market,1,0,1,0.0
+fort mac wildfire,1,16,17,94.11764705882352
+gold bar,1,1,2,50.0
+ft. mcmurr,1,9,10,90.0
+chelan county,1,0,1,0.0
+ft mac,1,1,2,50.0
+baptist church,1,0,1,0.0
+calgarys,1,1,2,50.0
+sams point preserve,1,0,1,0.0
+manitobas,1,2,3,66.66666666666666
+lantzville,1,0,1,0.0
+nanamio,1,0,1,0.0
+fort macmurray,1,0,1,0.0
+sarnia,1,2,3,66.66666666666666
+little smoky area,1,2,3,66.66666666666666
+municipal district of greenview,1,0,1,0.0
+fort mcmur,1,331,332,99.69879518072288
+okotoks,1,0,1,0.0
+australian,2,10,12,83.33333333333334
+zurich,1,1,2,50.0
+fortmcmurrays,1,2,3,66.66666666666666
+caddy lake,1,0,1,0.0
+edmonton humane society 13620 - 163 street,1,0,1,0.0
+calif.,3,4,7,57.14285714285714
+inkster,1,1,2,50.0
+northern mb,1,0,1,0.0
+mb,1,1483,1484,99.93261455525607
+yukon,1,0,1,0.0
+abasand,1,1,2,50.0
+beacon hill,1,0,1,0.0
+northern ontario,1,1,2,50.0
+mcmurray wildfire relief,1,41,42,97.61904761904762
+squamish,1,1,2,50.0
+italia,2,74,76,97.36842105263158
+amatrice,36,13,49,26.53061224489796
+arquata del tronto,1,0,1,0.0
+bronxs little italy,1,0,1,0.0
+calabria,1,0,1,0.0
+rome,5,6,11,54.54545454545454
+sommati,2,0,2,0.0
+pescaradeltronto,1,2,3,66.66666666666666
+pescara del tronto,5,0,5,0.0
+preci,1,57,58,98.27586206896551
+italys,2,4,6,66.66666666666666
+brazil,1,3,4,75.0
+arquata,3,1,4,25.0
+southkorea,1,0,1,0.0
+lazio,4,2,6,33.33333333333333
+the marche,1,0,1,0.0
+venice,1,0,1,0.0
+apennines,1,0,1,0.0
+niaf,1,46,47,97.87234042553192
+napoli,1,1,2,50.0
+accumoli,2,2,4,50.0
+umbria,3,0,3,0.0
+roma,1,18,19,94.73684210526315
+cascia,2,0,2,0.0
+piazza san francesco,1,0,1,0.0
+italian red cross,1,11,12,91.66666666666666
+unesco,1,0,1,0.0
+ueki,1,0,1,0.0
+perugia,1,0,1,0.0
+srilanka,166,20,186,10.75268817204301
+rieti,1,0,1,0.0
+romanian,1,1,2,50.0
+romanians,1,1,2,50.0
+saudi,1,5,6,83.33333333333334
+saada,1,0,1,0.0
+yemen,2,1,3,33.33333333333333
+amandola,1,0,1,0.0
+british,1,21,22,95.45454545454545
+marche,1,1,2,50.0
+greece,607,126,733,17.189631650750343
+holy trinity monastery,1,0,1,0.0
+neos voutzas,2,0,2,0.0
+athens,171,81,252,32.142857142857146
+mati,36,211,247,85.4251012145749
+attica,66,20,86,23.25581395348837
+greek orthodox church,2,0,2,0.0
+attika,1,1,2,50.0
+albanian,1,0,1,0.0
+albania,1,0,1,0.0
+greek,16,137,153,89.54248366013073
+preveza,1,0,1,0.0
+corinthia,1,0,1,0.0
+cyprus,9,2,11,18.181818181818183
+romania,1,2,3,66.66666666666666
+yunanistan,7,1,8,12.5
+greeces,14,11,25,44.0
+aegean islands,1,0,1,0.0
+kat hospital,1,0,1,0.0
+fleves,1,0,1,0.0
+glyfada,1,0,1,0.0
+rafina,14,6,20,30.0
+nea makri,1,0,1,0.0
+pompeii,3,0,3,0.0
+borneo,1,0,1,0.0
+sarawak,1,0,1,0.0
+athens beach,1,0,1,0.0
+latvia,2,0,2,0.0
+european,2,10,12,83.33333333333334
+grecia,4,0,4,0.0
+oven,1,9,10,90.0
+pakistani,2,11,13,84.61538461538461
+pyrkagia,1,2,3,66.66666666666666
+eastern attica,1,1,2,50.0
+east coast attica,1,0,1,0.0
+greek community centres,1,0,1,0.0
+greek organizations,1,0,1,0.0
+greek embassies,1,0,1,0.0
+greek consulates,1,0,1,0.0
+southern europe,1,0,1,0.0
+kineta,1,5,6,83.33333333333334
+korea,1,9,10,90.0
+australias,1,0,1,0.0
+penteli,1,0,1,0.0
+attiki,1,2,3,66.66666666666666
+thessaloniki,1,0,1,0.0
+poland,3,1,4,25.0
+atticas,1,0,1,0.0
+hermes airports,1,0,1,0.0
+grece,1,1,2,50.0
+kifissia,1,0,1,0.0
+balkans,1,5,6,83.33333333333334
+karamanlis,1,0,1,0.0
+halkidiki,1,0,1,0.0
+weirton,1,0,1,0.0
+w.v.,1,0,1,0.0
+xylokastro,1,0,1,0.0
+pendeli,1,0,1,0.0
+kalamos,1,0,1,0.0
+east attika,1,0,1,0.0
+west attica,1,0,1,0.0
+hellas,1,4,5,80.0
+city ground,1,0,1,0.0
+east of athens,1,2,3,66.66666666666666
+armenia,1,0,1,0.0
+evia,2,5,7,71.42857142857143
+chios,1,0,1,0.0
+lesvos,1,0,1,0.0
+kokkino limanaki,1,0,1,0.0
+neo voutza,1,0,1,0.0
+argyro,1,0,1,0.0
+pikermiou,1,1,2,50.0
+kathimerini,1,2,3,66.66666666666666
+efka,1,0,1,0.0
+macedonia,2,0,2,0.0
+algeria,1,0,1,0.0
+morocco,1,0,1,0.0
+oman,1,104,105,99.04761904761905
+imperial hospital,1,0,1,0.0
+europes,1,0,1,0.0
+geraneia,1,0,1,0.0
+devastate resort,1,2,3,66.66666666666666
+montreals greek,1,0,1,0.0
+greeces public,1,0,1,0.0
+unitedkingdom,1,0,1,0.0
+greek island,2,0,2,0.0
+crete,1,3,4,75.0
+syria,3,24,27,88.88888888888889
+thriasio hospital,1,1,2,50.0
+munich,1,0,1,0.0
+st pauls choir,1,0,1,0.0
+syriza,1,3,4,75.0
+brussels,1,0,1,0.0
+exarchia,1,0,1,0.0
+pikermou,1,0,1,0.0
+bulgaria,1,0,1,0.0
+hampshire,1,1,2,50.0
+dorset,1,0,1,0.0
+hertfordshire,1,0,1,0.0
+north wales,1,0,1,0.0
+sardinia,1,0,1,0.0
+attica wildfires,1,7,8,87.5
+east attica,1,2,3,66.66666666666666
+acharnon,1,0,1,0.0
+abacoislands,2,1,3,33.33333333333333
+kissimmee,1,1,2,50.0
+eastern carolinas,2,1,3,33.33333333333333
+south carolinians,2,0,2,0.0
+palm springs,1,0,1,0.0
+-florida,1,0,1,0.0
+floridas atlantic coast,1,0,1,0.0
+lantana,1,1,2,50.0
+alaksa,1,0,1,0.0
+abaco islands,14,3,17,17.647058823529413
+kennedy space center,3,0,3,0.0
+bahama,7,200,207,96.61835748792271
+bryan,2,10,12,83.33333333333334
+camden,2,0,2,0.0
+chatham,3,10,13,76.92307692307693
+glynn,2,0,2,0.0
+liberty,2,2,4,50.0
+mcintosh,2,1,3,33.33333333333333
+grandbahama,1,0,1,0.0
+abaco,20,45,65,69.23076923076923
+the bahamas,2,89,91,97.8021978021978
+abaco island,2,17,19,89.47368421052632
+clay county,3,0,3,0.0
+nw,1,150,151,99.33774834437085
+berry,1,5,6,83.33333333333334
+bimini,1,0,1,0.0
+eleuthera,1,1,2,50.0
+grand bahama,4,10,14,71.42857142857143
+palm harbor,1,0,1,0.0
+bocaraton,1,0,1,0.0
+volusia,4,8,12,66.66666666666666
+abacos,9,6,15,40.0
+mar a lago,1,0,1,0.0
+cabo verde,1,0,1,0.0
+andros island,1,1,2,50.0
+hallandale beach,1,0,1,0.0
+south carolinas,1,0,1,0.0
+marsh harbour,7,3,10,30.0
+dorian lands,1,0,1,0.0
+southern barrier islands,1,0,1,0.0
+indian river county emergency,1,0,1,0.0
+amazon,1,25,26,96.15384615384616
+palm beach,13,12,25,48.0
+martin counties,1,3,4,75.0
+barbados,1,0,1,0.0
+u. s. a,2,0,2,0.0
+new england,1,0,1,0.0
+florida-,1,0,1,0.0
+seminole county,3,0,3,0.0
+pittsburgh,2,0,2,0.0
+juno beach,1,0,1,0.0
+west palm beach,3,1,4,25.0
+umcor,1,3,4,75.0
+county florida,1,0,1,0.0
+cape canaveral hospital,1,0,1,0.0
+centralflorida,1,0,1,0.0
+st johns county,1,0,1,0.0
+fayette county,1,0,1,0.0
+ksa,1,12,13,92.3076923076923
+valdosta,1,0,1,0.0
+hurricane dorian,1,306,307,99.6742671009772
+palmbeach,1,4,5,80.0
+miramar parkway,1,0,1,0.0
+caldwell county,1,0,1,0.0
+crittenden county,1,0,1,0.0
+green turtle cay,2,0,2,0.0
+northwestern bahamas,1,5,6,83.33333333333334
+macon,2,1,3,33.33333333333333
+marsh island,1,0,1,0.0
+3148 s goldenrod rd,1,0,1,0.0
+floridas,7,9,16,56.25
+nassau,5,3,8,37.5
+dixie county,1,0,1,0.0
+old bahamas princess hotel and resort,1,0,1,0.0
+tampabay,1,0,1,0.0
+mar a largo,1,0,1,0.0
+st. lucie county,1,0,1,0.0
+grand bahama island,4,3,7,42.857142857142854
+lee county,1,0,1,0.0
+hastings,1,2,3,66.66666666666666
+flagler estates,1,1,2,50.0
+fla,2,320,322,99.37888198757764
+bahama island,2,7,9,77.77777777777779
+bahama islands,1,1,2,50.0
+big dog ranch,1,1,2,50.0
+savannah,5,1,6,16.666666666666664
+myrtlebeach,2,2,4,50.0
+camp david,1,0,1,0.0
+martin,3,38,41,92.6829268292683
+odessa,3,1,4,25.0
+atlantic basin,1,0,1,0.0
+great abaco,1,0,1,0.0
+marsh harbor,1,0,1,0.0
+atlanta motor speedway,1,8,9,88.88888888888889
+north beach,1,0,1,0.0
+walt disney world,1,0,1,0.0
+abacoisland,1,3,4,75.0
+osceola county,1,0,1,0.0
+165000 nw 87th ave(royal oaks park),1,0,1,0.0
+key biscayne,2,0,2,0.0
+martin county,2,0,2,0.0
+swansea town beach,1,0,1,0.0
+abacos islands,2,2,4,50.0
+erie countys,1,0,1,0.0
+indian river county,1,1,2,50.0
+south fl,1,35,36,97.22222222222221
+ft lauderdale,1,0,1,0.0
+tallahassee,1,1,2,50.0
+jupiter,1,5,6,83.33333333333334
+maitland,1,0,1,0.0
+dorian,1,914,915,99.89071038251366
+champlin,1,0,1,0.0
+minn.,1,0,1,0.0
+orange state,1,0,1,0.0
+cape canaveral,3,1,4,25.0
+grand abaco,1,1,2,50.0
+rhode island,1,0,1,0.0
+deerfield beach,2,2,4,50.0
+sebastian inlet,1,5,6,83.33333333333334
+abacos island,1,4,5,80.0
+sandy point,1,0,1,0.0
+miramar,1,1,2,50.0
+grand marsh,1,0,1,0.0
+boca raton,1,0,1,0.0
+mar-a-lago,1,10,11,90.9090909090909
+anderson middle school,1,0,1,0.0
+tencarva,1,0,1,0.0
+martincounty,1,1,2,50.0
+sip hope,1,0,1,0.0
+st. lucie,1,1,2,50.0
+coast south of sebastian inlet,1,0,1,0.0
+turtle cay,1,2,3,66.66666666666666
+brunswick,1,7,8,87.5
+north shore animal league,1,0,1,0.0
+bluffton,1,0,1,0.0
+islands south of us,1,0,1,0.0
+daytonbeach,1,0,1,0.0
+county shelters,1,1,2,50.0
+community church,1,0,1,0.0
+treasure coast,1,5,6,83.33333333333334
+palm beaches,1,0,1,0.0
+oregon,4,3,7,42.857142857142854
+palm coast,1,0,1,0.0
+brevardcounty,1,0,1,0.0
+north brevard county,1,0,1,0.0
+palmbeachcounty,1,0,1,0.0
+dothan,2,0,2,0.0
+dorianflorida,1,5,6,83.33333333333334
+cocoa beach,1,0,1,0.0
+daytonabeach,1,0,1,0.0
+northern california,17,88,105,83.80952380952381
+paradise,21,78,99,78.78787878787878
+sierra nevada,9,2,11,18.181818181818183
+californias,31,7,38,18.421052631578945
+butte county,21,5,26,19.230769230769234
+southern californias,1,1,2,50.0
+the united states,1,9,10,90.0
+northern califo,1,105,106,99.05660377358491
+cal,1,1902,1903,99.9474513925381
+cali,1,801,802,99.87531172069825
+lodi,1,2,3,66.66666666666666
+northern californias,4,7,11,63.63636363636363
+sanfrancisco,2,1,3,33.33333333333333
+meanwhile,2,16,18,88.88888888888889
+sierra nevadas,1,1,2,50.0
+dublin,1,0,1,0.0
+oakland,1,2,3,66.66666666666666
+granite mountain hotshots memorial state park,1,0,1,0.0
+the american red cross,1,24,25,96.0
+coffey park,1,0,1,0.0
+santa rosa,2,1,3,33.33333333333333
+santarosa,1,0,1,0.0
+saudi arabia,2,0,2,0.0
+feather river hospital,1,0,1,0.0
+malibu,21,6,27,22.22222222222222
+griffith park,1,1,2,50.0
+️california,1,0,1,0.0
+ventura county,3,0,3,0.0
+kanyewest,1,2,3,66.66666666666666
+kashmir,116,115,231,49.78354978354979
+kulgam,1,0,1,0.0
+magalia,2,1,3,33.33333333333333
+oroville,4,1,5,20.0
+grass valley,1,0,1,0.0
+nevada city,1,0,1,0.0
+butte,2,46,48,95.83333333333334
+sierra nevadas camp,1,0,1,0.0
+southern california,3,20,23,86.95652173913044
+contra costa,2,0,2,0.0
+manhattans,1,0,1,0.0
+norcal,2,4,6,66.66666666666666
+topanga,1,0,1,0.0
+concow,1,1,2,50.0
+northern calif.,1,0,1,0.0
+thousand oaks,2,1,3,33.33333333333333
+westlake village,1,0,1,0.0
+north valley community foundation,2,0,2,0.0
+fund - north valley community foundation,1,0,1,0.0
+santa clarita,1,0,1,0.0
+roseville,1,0,1,0.0
+denver,2,1,3,33.33333333333333
+los angeles county,1,0,1,0.0
+town of lincoln,1,0,1,0.0
+camp fire,1,176,177,99.43502824858757
+silicon valley,2,0,2,0.0
+lancaster,2,2,4,50.0
+midtown,1,0,1,0.0
+"19 colusa street orland, ca 95963",1,0,1,0.0
+rochester,1,1,2,50.0
+ventura,1,6,7,85.71428571428571
+chico,5,14,19,73.68421052631578
+simivalley,1,0,1,0.0
+orland,1,29,30,96.66666666666667
+-china,1,0,1,0.0
+-mississippi,1,0,1,0.0
+chipotle restaurant,1,0,1,0.0
+st. paul,1,1,2,50.0
+rice park,1,0,1,0.0
+stockton,1,1,2,50.0
+parkland,1,0,1,0.0
+the chico municipal airport,1,0,1,0.0
+california)--these,1,0,1,0.0
+bay area,1,6,7,85.71428571428571
+uci medical center,1,0,1,0.0
+oxnard,1,0,1,0.0
+buttecounty,2,6,8,75.0
+hamiltoncity,1,0,1,0.0
+berkeley,1,1,2,50.0
+santa ana,1,1,2,50.0
+mojave desert,1,0,1,0.0
+caifornia,1,0,1,0.0
+montgomery county,1,0,1,0.0
+californians,1,6,7,85.71428571428571
+44 2nd street,1,0,1,0.0
+yubacity,1,0,1,0.0
+pulga,1,1,2,50.0
+lake sherwood,1,0,1,0.0
+campfire,1,120,121,99.17355371900827
+azad kashmir,55,5,60,8.333333333333332
+mirpur,228,15,243,6.172839506172839
+ajk,93,21,114,18.421052631578945
+chiterpari,1,0,1,0.0
+jaltan road,1,0,1,0.0
+jhelum,19,2,21,9.523809523809524
+azad jammu kashmir,1,0,1,0.0
+kort kashmir,1,0,1,0.0
+azadkashmir,31,12,43,27.906976744186046
+islamabad,19,4,23,17.391304347826086
+mirpor,1,0,1,0.0
+pakistans,3,5,8,62.5
+lahore,19,4,23,17.391304347826086
+mirpur jatlan,1,1,2,50.0
+jarikas,5,1,6,16.666666666666664
+muzaffarabad,2,1,3,33.33333333333333
+azad jammu,8,3,11,27.27272727272727
+mangla dam,11,5,16,31.25
+jatlan,33,9,42,21.428571428571427
+sanga,1,1,2,50.0
+pulmanda,1,0,1,0.0
+small sharif,1,0,1,0.0
+pindi sabarwal,1,0,1,0.0
+sohawa,1,0,1,0.0
+karachi,10,2,12,16.666666666666664
+mirpur university of science and technology,1,1,2,50.0
+pak,5,354,359,98.60724233983287
+jehlum canal,1,0,1,0.0
+pok,1,50,51,98.0392156862745
+jaatlaan canal,1,0,1,0.0
+jehlum,7,3,10,30.0
+allah karum karay,1,0,1,0.0
+jaatlaan,2,1,3,33.33333333333333
+ariel,1,0,1,0.0
+kashmir valley,1,0,1,0.0
+azadjammukashmir,1,0,1,0.0
+jatla,2,40,42,95.23809523809523
+sdma ajk,1,0,1,0.0
+mangla,6,19,25,76.0
+maluku,1,0,1,0.0
+indonesia,2,0,2,0.0
+mirpurajk,1,0,1,0.0
+karachirains,1,0,1,0.0
+azad,6,115,121,95.0413223140496
+bhimber,6,1,7,14.285714285714285
+azad kashmirὢ5,1,0,1,0.0
+akj,1,0,1,0.0
+kharee shrif,1,0,1,0.0
+mirpure,1,4,5,80.0
+new mirpur,2,0,2,0.0
+pars,1,5,6,83.33333333333334
+rawalpindi,5,1,6,16.666666666666664
+sialkot,3,0,3,0.0
+azad jammu and kashmir,2,7,9,77.77777777777779
+mipur,1,0,1,0.0
+imrankhan,1,4,5,80.0
+rehayishmarziki,1,0,1,0.0
+goilaan,1,0,1,0.0
+aj&k,3,3,6,50.0
+azad_kashmir,4,0,4,0.0
+mayo hospital lahore,1,0,1,0.0
+dinah,1,0,1,0.0
+peshawar,4,0,4,0.0
+charsadda,1,0,1,0.0
+gujrat,3,0,3,0.0
+malakand,1,0,1,0.0
+baluchistan,1,0,1,0.0
+karamaat,1,0,1,0.0
+mirlpur,1,0,1,0.0
+kala gujran,1,0,1,0.0
+mangla road,1,0,1,0.0
+jatlaan,2,1,3,33.33333333333333
+qaisar,1,0,1,0.0
+aurangzeb,1,0,1,0.0
+margalla,1,0,1,0.0
+pujab,1,0,1,0.0
+mirpurazadkashmir,2,3,5,60.0
+darbar,1,0,1,0.0
+peshawer,1,0,1,0.0
+gujraat,1,0,1,0.0
+duniya kahan,1,0,1,0.0
+sarai alamgir,1,0,1,0.0
+jatla mirpur,1,0,1,0.0
+mirpur city,1,2,3,66.66666666666666
+mirpurs,1,0,1,0.0
+balochistan,2,0,2,0.0
+united kingdom,1,0,1,0.0
+@mzsqadri roads,1,0,1,0.0
+kashmir hotel and restaurant,1,0,1,0.0
+jatllan,1,0,1,0.0
+pojk,1,1,2,50.0
+gujar khan,1,0,1,0.0
+kotli,3,0,3,0.0
+benazir bhutto shaheed medical college,1,0,1,0.0
+chitterpari,1,0,1,0.0
+road jatlan-mangla,1,2,3,66.66666666666666
+saraialamgir,2,0,2,0.0
+kharian,2,0,2,0.0
+jhelum city,1,0,1,0.0
+khyber pakhtunkhwa,1,0,1,0.0
+paki,1,332,333,99.69969969969969
+khari,1,3,4,75.0
+islambad,1,1,2,50.0
+shifa foundation,1,1,2,50.0
+aazaad kashmir,1,0,1,0.0
+azad #kashmir,1,5,6,83.33333333333334
+azaad kashmir,1,1,2,50.0
+bamberg,1,0,1,0.0
+calhoun,1,1,2,50.0
+clarendon,1,0,1,0.0
+richland,1,0,1,0.0
+sumter,1,0,1,0.0
+haitis,7,9,16,56.25
+jamaica,14,8,22,36.36363636363637
+port arthur church,1,0,1,0.0
+dame marie,1,0,1,0.0
+jeremie,2,3,5,60.0
+bossier,1,0,1,0.0
+european union,1,2,3,66.66666666666666
+haitian city,1,0,1,0.0
+honolulu,1,1,2,50.0
+hilo,1,2,3,66.66666666666666
+wailuku,1,0,1,0.0
+haitian,2,17,19,89.47368421052632
+city of jeremie,1,0,1,0.0
+cuba-,1,0,1,0.0
+anderson county,1,0,1,0.0
+floridas eastern,1,0,1,0.0
+les cayes,4,1,5,20.0
+terre blanche,1,0,1,0.0
+hait,1,644,645,99.84496124031008
+grand-duc-cavailon,1,0,1,0.0
+maui,1,1,2,50.0
+kauai,1,0,1,0.0
+port-au-prince,1,9,10,90.0
+cayman,1,2,3,66.66666666666666
+freeport,1,1,2,50.0
+bahamians,1,1,2,50.0
+colombo,3,18,21,85.71428571428571
+rathmalana,1,0,1,0.0
+gampaha,2,0,2,0.0
+lka,1,120,121,99.17355371900827
+ratnapura,7,1,8,12.5
+srilankan,2,2,4,50.0
+matara,6,5,11,45.45454545454545
+rathnapura,2,0,2,0.0
+elapatha,2,0,2,0.0
+uss lake,1,4,5,80.0
+battaramulla,1,0,1,0.0
+srilanak,1,0,1,0.0
+kaduwela,1,0,1,0.0
+cambodia,1,0,1,0.0
+chinas,1,2,3,66.66666666666666
+norway,6,0,6,0.0
+maharagama,1,0,1,0.0
+eheliyagoda,1,0,1,0.0
+kalutara,9,0,9,0.0
+rathnapu,1,2,3,66.66666666666666
+bambalapitiya,1,0,1,0.0
+kollupitiya,1,0,1,0.0
+@srilanka,1,5,6,83.33333333333334
+srilankans,1,0,1,0.0
+millaniya,1,0,1,0.0
+srilankas,1,2,3,66.66666666666666
+matara district,1,1,2,50.0
+srilank,1,181,182,99.45054945054946
+ratmalana,1,0,1,0.0
+sri lankans,1,1,2,50.0
+egypt,1,3,4,75.0
+colombo port city,1,0,1,0.0
+yatagampitiya,1,0,1,0.0
+colombo port,1,3,4,75.0
+ayagama,2,0,2,0.0
+myanmar,3,1,4,25.0
+national roads,1,0,1,0.0
+akuressa,1,0,1,0.0
+sri la,1,96,97,98.96907216494846
+chittagong,1,0,1,0.0
+sri lankas,3,0,3,0.0
+matara city,1,0,1,0.0
+mizoram,1,0,1,0.0
+galle,4,9,13,69.23076923076923
+neluwa,1,0,1,0.0
+hanwella,1,0,1,0.0
+pahiyangala,1,0,1,0.0
+bulathsinhala,2,0,2,0.0
+dnkoluwaththa,1,0,1,0.0
+pitabaddra,1,0,1,0.0
+arya hospital,1,1,2,50.0
+jaffna,1,0,1,0.0
+mathugama,1,0,1,0.0
+nagoda hospital,1,0,1,0.0
+choluteca,1,0,1,0.0
+south korean,1,0,1,0.0
+baddegama,1,0,1,0.0
